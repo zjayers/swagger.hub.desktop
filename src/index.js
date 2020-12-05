@@ -1,8 +1,9 @@
 const { app, BrowserWindow } = require("electron");
 const path = require("path");
 
-const iconPath = path.join(__dirname, `./logo.png`);
-app.dock.setIcon(iconPath);
+const logoPath = path.join(__dirname, `../build/icon.png`);
+const iconPath = path.join(__dirname, `../build/icon.icns`);
+app.dock.setIcon(logoPath);
 
 // Handle creating/removing shortcuts on Windows when installing/uninstalling.
 if (require("electron-squirrel-startup")) {
@@ -15,6 +16,7 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 1200,
     height: 1000,
+    icon: iconPath,
   });
 
   // and load the index.html of the app.
