@@ -1,8 +1,7 @@
 # Swagger Hub Desktop
-[![GitHub Release](https://img.shields.io/github/release/zjayers/swagger.hub.desktop.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/swagger.hub.desktop.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/swagger.hub.desktop.svg?style=flat)](https://github.com/zjayers/swagger.hub.desktop/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/swagger.hub.desktop.svg?style=flat)](https://github.com/zjayers/swagger.hub.desktop/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/swagger.hub.desktop.svg?maxAge=25000)](https://github.com/zjayers/swagger.hub.desktop/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/swagger.hub.desktop/blob/master/LICENSEs)
 
 ## Description
 
